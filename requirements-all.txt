@@ -1,6 +1,6 @@
-tensorflow==2.5.0
-tensorflow-text==2.5.0
-tf-models-official==2.5.0
+tensorflow
+tensorflow-text
+tf-models-official
 sentencepiece
 cloud-tpu-client
 toml
